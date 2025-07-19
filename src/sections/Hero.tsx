@@ -1,3 +1,9 @@
 export default function Hero() {
-    return <div>Hero</div>;
+    return (
+        <section>
+            <div className="container">
+                
+            </div>
+        </section>
+    );
 }
